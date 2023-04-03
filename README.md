@@ -18,6 +18,8 @@
   * 一个软件实体应该尽可能少的与其他实体发生相互作用
 
 [参考](https://blog.csdn.net/Youth_lql/article/details/117884540)
+
+[Github](https://github.com/youthlql/JavaYouth)
 ## 第二章 设计模式
 ### 2.1 创建型
 * [单例模式](https://github.com/VegetablePigs/desig_pattern_demo/blob/master/%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F.md)
